@@ -1,28 +1,8 @@
-goit-markup-hw-04
+goit-markup-hw-05
 my home work
 
-Добірка цікавих градієнтів - Handpicked beautiful color gradients https://uigradients.com/
+Воркшоп по створенню модального вікна
+https://goitlmsstorage.b-cdn.net/41963c6a-cf63-4e55-bd92-959dfd1c8ea42024-03-04%2021-45-54%20%281%29.mp4
 
-Ще один цікавий оптимізатор картинок – Online Image Сompressor https://imagecompressor.com/
-
-Position - https://css-tricks.com/almanac/properties/p/position/
-
-CSS Transition - https://www.youtube.com/watch?v=8kK-cA99SA0&feature=youtu.be
-
-Готовий CSS код різних анімацій тексту - https://animate.style/
-
-Футбольне поле (приклад position: absolute) https://codepen.io/mpadalko/pen/PomeroW?editors=1100
-
-Position: Sticky https://codepen.io/mpadalko/pen/LYNqpGG
-
-Приклади з трансформ https://codepen.io/nazarelen/pen/EaNbLX?editors=1100
-
-Генератор cubic-bezier https://cubic-bezier.com/#.22,.84,.88,.03
-
-Бібліотека Animate.css https://animate.style/
-
-Бібліотека AOS (Анімациї на скрол): https://michalsnik.github.io/aos/
-
-Приклад анімації shake іконок: https://codepen.io/mpadalko/pen/GRWEWMZ?editors=1100
-
-Приклад анімації heartbeat: https://codepen.io/mpadalko/pen/JjbErPB?editors=1100
+Модуль 5. Елементи форм. Доступність
+https://youtu.be/hPzSmxjc3iU

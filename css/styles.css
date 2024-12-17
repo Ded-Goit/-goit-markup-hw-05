@@ -398,6 +398,38 @@ transform: translateY(0%);
 }
 
 /* #endregion */
+/* #region modal */
+.modal-overley {
+  background-color: #e22d2d;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 999 ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*background: #fff;
+  opacity: 0;
+  pointer-events: none;*/
+  
+}
+.modal-overley.is-open {
+  opacity: 1;
+  pointer-events: auto;
+}
+.modal {
+  background-color: #434455;
+  width: 408px;
+  height: 584px;
+  border-radius: 4px;
+  padding-bottom: 8px;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 2px 1px 0 rgba(0, 0, 0, 0.2);
+  background: #fcfcfc, rgba(0, 0, 0, 0.2);
+}
+
+/* #endregion */
 /* #region  footer */
 .footer-page {
   background-color: #2e2f42;
