@@ -498,6 +498,11 @@ img {
   color: #fff;
   padding: 8px 16px;
 }
+.footer-form-input:hover {
+  background-color: #ffffff;
+  color: #000;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
 .footer-form-button {
   min-width: 165px;
   height: 40px;
@@ -518,6 +523,7 @@ img {
 .footer-form-button:hover,
 .footer-form-button:focus {
   background-color: #31d0aa;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-form-icon {
   fill: #fff;
@@ -586,6 +592,7 @@ img {
 .modal-buton-close:focus {
   background-color: #404bbf;
   border: none;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .modal-buton-close:hover .icon,
 .modal-buton-close:focus .icon {
